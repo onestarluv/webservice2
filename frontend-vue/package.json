@@ -1,0 +1,21 @@
+{
+  "name": "jwt-board-vue",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20.19.0"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1"
+  },
+  "dependencies": {
+    "vue": "3.5.43"
+  },
+  "devDependencies": {
+    "vite": "8.3.4",
+    "@vitejs/plugin-vue": "6.0.9"
+  }
+}

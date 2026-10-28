@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.pyc
+target/
+data/
+.env
+.DS_Store
+.idea/
+.maven-cache/
+.npm-cache/
+tools/.vendor/
+docs/
+work.md
+save.md
